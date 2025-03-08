@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://monstersurvivor.com/sitemap.xml 
